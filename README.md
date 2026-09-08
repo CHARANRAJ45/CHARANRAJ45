@@ -184,19 +184,123 @@ An autonomous system designed to evaluate supply-chain disruptions and coordinat
 
 ---
 
-# 📊 `07 / GITHUB`
+# 📊 `07 / LIVE GITHUB`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CHARANRAJ45&show_icons=true&hide_border=true&theme=transparent" />
+### ⚡ My development activity — directly from GitHub
+
+<a href="https://github.com/CHARANRAJ45">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHARANRAJ45&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165"/>
+</a>
+
+<a href="https://github.com/CHARANRAJ45">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHARANRAJ45&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165"/>
+</a>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CHARANRAJ45&hide_border=true&theme=transparent" />
+### 🔥 Contribution Streak
+
+<a href="https://github.com/CHARANRAJ45">
+  <img src="https://streak-stats.demolab.com?user=CHARANRAJ45&theme=transparent&hide_border=true" />
+</a>
+
+<br>
+
+### 🟩 Contribution Activity
+
+<a href="https://github.com/CHARANRAJ45">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHARANRAJ45&theme=github-compact&hide_border=true&area=true" width="95%"/>
+</a>
 
 </div>
 
 ---
+
+## ⭐ `08 / FEATURED REPOSITORIES`
+
+<div align="center">
+
+<a href="https://github.com/CHARANRAJ45?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHARANRAJ45&repo=YOUR_BEST_REPO_1&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/CHARANRAJ45?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHARANRAJ45&repo=YOUR_BEST_REPO_2&theme=transparent&hide_border=true" />
+</a>
+
+<br>
+
+<a href="https://github.com/CHARANRAJ45?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHARANRAJ45&repo=YOUR_BEST_REPO_3&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/CHARANRAJ45?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHARANRAJ45&repo=YOUR_BEST_REPO_4&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🏆 `09 / GITHUB SNAPSHOT`
+
+<div align="center">
+
+| 🟩 Contributions |  ⭐ Stars | 🍴 Forks | 📦 Repositories |
+| :--------------: | :------: | :------: | :-------------: |
+|     **Live**     | **Live** | **Live** |     **Live**    |
+
+</div>
+
+> **No manually entered GitHub numbers.**
+> Repository cards, contribution activity, languages, commits and GitHub statistics are generated from your GitHub account.
+
+---
+
+## 📌 `10 / PINNED WORK`
+
+My most important projects are pinned directly on my GitHub profile.
+
+**Explore → [github.com/CHARANRAJ45](https://github.com/CHARANRAJ45)**
+
+GitHub allows up to **six public repositories or gists** to be pinned to your profile, and pinned repositories display information such as their stars.
+
+### Recommended pins
+
+```text
+🤖 Agentic AI / Multi-Agent Project
+💳 Revenue Recovery Agent
+🚚 Supply Chain Agent
+🧠 AI/ML Project
+🌐 Full-Stack AI Application
+⭐ Best Open-Source / Personal Project
+```
+
+---
+
+# 🌐 `11 / CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/CHARANRAJ45">
+<img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/charan-raj-45">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:claranraj7975156@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+### `BUILD → TEST → THINK → AUTOMATE → SCALE`
+
+</div>
 
 # 🌐 `08 / LET'S CONNECT`
 
